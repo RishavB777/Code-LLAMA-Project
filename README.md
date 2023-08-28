@@ -38,6 +38,4 @@ For inquiries, feedback, and assistance, don't hesitate to open an issue on this
 
 Embark on a journey into the realm of AI-driven code generation with Code Llama 7B. Experience the synergy between code and language, and unlock new possibilities in your development projects. Happy coding! 🦙🚀
 
-Stay updated by visiting our website or following us on Twitter.
-
 Code Llama 7B pushes the boundaries of AI's relationship with code. Our mission is to empower developers with innovative tools that facilitate seamless code creation and comprehension.
